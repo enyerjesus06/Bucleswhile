@@ -1,2 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+
+using Bucleswhile;
+
+Whilebucles calcular = new Whilebucles();
+
+calcular.Clasesdehoy();
+
+//calcular.Clasesdehoy2();
+
+//calcular.Clasesdehoy3();
+
+//calcular.Clasesdehoy4();
+
